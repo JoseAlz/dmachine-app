@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dmachine-app/static/css/main.73d063d2.chunk.css",
+    "main.js": "/dmachine-app/static/js/main.2e40ce28.chunk.js",
+    "main.js.map": "/dmachine-app/static/js/main.2e40ce28.chunk.js.map",
+    "runtime-main.js": "/dmachine-app/static/js/runtime-main.638d1d3b.js",
+    "runtime-main.js.map": "/dmachine-app/static/js/runtime-main.638d1d3b.js.map",
+    "static/js/2.1903a2e0.chunk.js": "/dmachine-app/static/js/2.1903a2e0.chunk.js",
+    "static/js/2.1903a2e0.chunk.js.map": "/dmachine-app/static/js/2.1903a2e0.chunk.js.map",
+    "static/js/3.428f9317.chunk.js": "/dmachine-app/static/js/3.428f9317.chunk.js",
+    "static/js/3.428f9317.chunk.js.map": "/dmachine-app/static/js/3.428f9317.chunk.js.map",
+    "index.html": "/dmachine-app/index.html",
+    "static/css/main.73d063d2.chunk.css.map": "/dmachine-app/static/css/main.73d063d2.chunk.css.map",
+    "static/js/2.1903a2e0.chunk.js.LICENSE.txt": "/dmachine-app/static/js/2.1903a2e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.638d1d3b.js",
+    "static/js/2.1903a2e0.chunk.js",
+    "static/css/main.73d063d2.chunk.css",
+    "static/js/main.2e40ce28.chunk.js"
+  ]
+}
